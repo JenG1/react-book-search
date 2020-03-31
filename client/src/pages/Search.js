@@ -60,7 +60,7 @@ export default function SearchPage() {
             <Nav />
             <Jumbotron>
                 
-<h1 class="text-6xl text-blue-600 font-semi">React Book Search</h1>
+<h1 className="text-6xl text-blue-600 font-semi">React Book Search</h1>
             </Jumbotron>
             <Container>
                 <Row>
